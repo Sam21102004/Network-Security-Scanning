@@ -115,7 +115,7 @@ Output includes
 
 Screenshot
 
-screenshots/02_whois.png
+![WHOIS Lookup](screenshots/02_whois.jpeg)
 
 ---
 
