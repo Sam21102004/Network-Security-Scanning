@@ -124,7 +124,7 @@ Screenshot
 Command
 
 ```bash
-nslookup google.com
+nslookup scanme.nmap.org
 ```
 
 Purpose
