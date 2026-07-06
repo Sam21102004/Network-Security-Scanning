@@ -90,7 +90,7 @@ Find the IP address of the Metasploitable2 machine which will be used as the tar
 
 Screenshot
 
-screenshots/01_ifconfig.png
+![Target IP](screenshots/01_ifconfig.png)
 
 ---
 
@@ -133,7 +133,7 @@ Resolve the domain name into its IP address.
 
 Screenshot
 
-screenshots/03_nslookup.png
+![DNS Lookup](screenshots/03_nslookup.jpeg)
 
 ---
 
@@ -151,7 +151,7 @@ Verify network connectivity between Kali Linux and Metasploitable2.
 
 Screenshot
 
-screenshots/04_ping.png
+![Ping Test](screenshots/04_ping.jpeg)
 
 ---
 
@@ -176,7 +176,7 @@ Expected Output
 
 Screenshot
 
-screenshots/05_nmap_tcp.png
+![TCP SYN Scan](screenshots/05_tcp_scan.jpeg)
 
 ---
 
@@ -194,7 +194,7 @@ Identify UDP services running on the target machine.
 
 Screenshot
 
-screenshots/06_nmap_udp.png
+![UDP Scan](screenshots/06_udp_scan.png.jpeg)
 
 ---
 
@@ -212,7 +212,7 @@ Detect versions of services running on open ports.
 
 Screenshot
 
-screenshots/07_service_detection.png
+![Service Detection](screenshots/07_service_scan.jpeg)
 
 ---
 
@@ -230,7 +230,7 @@ Identify the operating system of the target machine.
 
 Screenshot
 
-screenshots/08_os_detection.png
+![OS Detection](screenshots/08_os_detection.png)
 
 ---
 
@@ -249,9 +249,9 @@ Activities Performed
 
 Screenshots
 
-screenshots/09_openvas_completed.png
+![OpenVAS Completed](screenshots/09_openvas_target.png)
 
-screenshots/10_openvas_summary.png
+![OpenVAS Summary](screenshots/10_openvas_report.png)
 
 Generated Report
 
@@ -277,7 +277,7 @@ http
 
 Screenshot
 
-screenshots/12_http_filter.png
+![Wireshark HTTP Filter](screenshots/12_http_filter.png)
 
 ---
 
@@ -291,7 +291,7 @@ dns
 
 Screenshot
 
-screenshots/11_dns_filter.png
+![Wireshark DNS Filter](screenshots/11_dns_filter.png)
 
 ---
 
@@ -315,7 +315,7 @@ Block incoming HTTP traffic on Port 80.
 
 Screenshot
 
-screenshots/13_firewall.png
+![Firewall Configuration](screenshots/13_iptables.png)
 
 ---
 
