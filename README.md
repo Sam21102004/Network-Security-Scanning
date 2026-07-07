@@ -176,7 +176,7 @@ Expected Output
 
 Screenshot
 
-![TCP SYN Scan](screenshots/05_tcp_scan.jpeg)
+![TCP SYN Scan](screenshots/05-tcp_scan.jpeg)
 
 ---
 
@@ -230,7 +230,7 @@ Identify the operating system of the target machine.
 
 Screenshot
 
-![OS Detection](screenshots/08_os_detection.png)
+![OS Detection](screenshots/08_os_detection.jpeg)
 
 ---
 
@@ -249,9 +249,9 @@ Activities Performed
 
 Screenshots
 
-![OpenVAS Completed](screenshots/09_openvas_target.png)
+![OpenVAS Completed](screenshots/09_openvas_target.jpeg)
 
-![OpenVAS Summary](screenshots/10_openvas_report.png)
+![OpenVAS Summary](screenshots/10_openvas_report.jpeg)
 
 Generated Report
 
@@ -277,7 +277,7 @@ http
 
 Screenshot
 
-![Wireshark HTTP Filter](screenshots/12_http_filter.png)
+![Wireshark HTTP Filter](screenshots/12_http_filter.jpeg)
 
 ---
 
@@ -291,7 +291,7 @@ dns
 
 Screenshot
 
-![Wireshark DNS Filter](screenshots/11_dns_filter.png)
+![Wireshark DNS Filter](screenshots/11_dns_filter.jpeg)
 
 ---
 
@@ -315,7 +315,7 @@ Block incoming HTTP traffic on Port 80.
 
 Screenshot
 
-![Firewall Configuration](screenshots/13_iptables.png)
+![Firewall Configuration](screenshots/13_iptables.jpeg)
 
 ---
 
