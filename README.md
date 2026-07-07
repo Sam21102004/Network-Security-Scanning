@@ -277,7 +277,7 @@ http
 
 Screenshot
 
-![Wireshark HTTP Filter](screenshots/12_http_filter.jpeg)
+![Wireshark HTTP Filter](screenshots/11_http_filter.jpeg)
 
 ---
 
@@ -291,7 +291,7 @@ dns
 
 Screenshot
 
-![Wireshark DNS Filter](screenshots/11_dns_filter.jpeg)
+![Wireshark DNS Filter](screenshots/12_dns_filter.jpeg)
 
 ---
 
